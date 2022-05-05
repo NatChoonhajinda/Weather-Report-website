@@ -5,9 +5,22 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url('background-1939128_1280.webp');
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+body,h1 {
+  color: whitesmoke;
+  font-family: "Raleway", sans-serif
+}
+body, html {height: 100%}
+.App {
+  background-image: url('background-1939128_1280.webp');
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
 }
