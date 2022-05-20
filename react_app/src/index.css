@@ -5,7 +5,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image: url('background-1939128_1280.webp');
+  background-image: url('istockphoto-510656547-640x640.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 code {
@@ -19,8 +21,5 @@ body,h1 {
 }
 body, html {height: 100%}
 .App {
-  background-image: url('background-1939128_1280.webp');
   min-height: 100%;
-  background-position: center;
-  background-size: cover;
 }

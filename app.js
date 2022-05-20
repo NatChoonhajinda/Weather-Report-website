@@ -49,5 +49,5 @@ app.get('/weather_report', function (req, res, next) {
 app.listen(8888, function () {
   console.log('CORS-enabled web server listening on port 8888')
 })
-//http://localhost:8080/weather_report
+//http://localhost:8888/weather_report
 //node app.js
